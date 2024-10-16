@@ -16,6 +16,8 @@ import java.io.IOException;
 ///TEST MERGE
 /// nem tudom hogy ezt hogy a fenebe kenne csinalni
 /// valami csinalt
+/// nem jo
+/// meg egy commit
 public class App extends Application {
 
     private static Scene scene;
