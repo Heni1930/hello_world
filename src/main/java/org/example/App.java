@@ -18,6 +18,7 @@ import java.io.IOException;
 /// valami csinalt
 /// nem jo
 /// meg egy commit
+/// hello 3
 public class App extends Application {
 
     private static Scene scene;
