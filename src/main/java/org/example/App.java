@@ -13,6 +13,7 @@ import java.io.IOException;
  */
 
 ///uj branch
+/// meg egy
 
 
 public class App extends Application {
