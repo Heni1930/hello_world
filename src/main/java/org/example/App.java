@@ -12,13 +12,7 @@ import java.io.IOException;
  * JavaFX App
  */
 
-///hello 2
-///TEST MERGE
-/// nem tudom hogy ezt hogy a fenebe kenne csinalni
-/// valami csinalt
-/// nem jo
-/// meg egy commit
-/// hello 3
+
 public class App extends Application {
 
     private static Scene scene;
