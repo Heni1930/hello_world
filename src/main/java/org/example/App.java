@@ -14,6 +14,8 @@ import java.io.IOException;
 
 ///uj branch
 /// meg egy
+///
+/// Teszt új branch commit 1
 
 
 public class App extends Application {
