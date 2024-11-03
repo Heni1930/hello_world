@@ -12,13 +12,7 @@ import java.io.IOException;
  * JavaFX  App
  */
 
-///uj branch
-/// meg egy
-///
-/// Teszt új branch commit 1
-/// commit 2
-/// . commit aa
-/// commit
+
 
 
 public class App extends Application {
