@@ -7,7 +7,7 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-///
+
 /**
  * JavaFX  App
  */
@@ -15,6 +15,10 @@ import java.io.IOException;
 ///
 /// .c3
 ///proba
+
+/// .
+/// co
+
 
 public class App extends Application {
 
