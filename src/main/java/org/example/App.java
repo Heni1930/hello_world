@@ -25,6 +25,7 @@ import java.io.IOException;
 /// commit 2
 /// a
 /// teszt1
+/// teszt2
 
 
 public class App extends Application {
