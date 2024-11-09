@@ -27,6 +27,7 @@ import java.io.IOException;
 /// teszt1
 /// teszt2
 /// teszt3
+/// teszt4
 
 
 public class App extends Application {
