@@ -10,24 +10,9 @@ import java.io.IOException;
 
 /**
  * JavaFX  App
- */
-///
-///
-/// .c3
-///proba
+ **/
 
-/// .
-/// commit
-///uj branch
-/// meg egy
-///
-/// Teszt új branch commit 1
-/// commit 2
-/// a
-/// teszt1
-/// teszt2
-/// teszt3
-/// teszt12
+//new
 
 
 public class App extends Application {
